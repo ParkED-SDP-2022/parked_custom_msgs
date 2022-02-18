@@ -1,4 +1,4 @@
-# parked_custom_msgs
+# ParkED Custom Messages
 
 This package will most likely be required by all other packages in the system.
 
