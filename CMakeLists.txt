@@ -49,7 +49,10 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate messages in the 'msg' folder
 add_message_files(
   FILES
-  Servo_Array.msg
+  Point.msg
+  Ultrasonic_Sensor.msg
+  Compass.msg
+  Robot_Sensor_State.msg
 )
 
 ## Generate services in the 'srv' folder
