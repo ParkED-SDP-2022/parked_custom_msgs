@@ -1,8 +1,0 @@
-#goal         
-Point desired_goal
----
-#result
-bool successful
----
-#feedback
-float64 time_left
