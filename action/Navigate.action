@@ -1,0 +1,9 @@
+#goal
+parked_custom_msgs/Point destination
+parked_custom_msgs/Point[] Path
+---
+#result
+bool success
+---
+#feedback
+parked_custom_msgs/Point current_positon

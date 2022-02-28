@@ -66,6 +66,7 @@ add_message_files(
 add_action_files(
   FILES
   MoveToPoint.action
+  Navigate.action
 )
 
 ## Generate added messages and services with any dependencies listed here
