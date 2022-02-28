@@ -1,6 +1,6 @@
 #goal
 parked_custom_msgs/Point destination
-parked_custom_msgs/Point[] Path
+parked_custom_msgs/Point[] path
 ---
 #result
 bool success
