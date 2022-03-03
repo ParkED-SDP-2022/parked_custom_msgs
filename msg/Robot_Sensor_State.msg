@@ -1,2 +1,3 @@
-parked_custom_msgs/Compass compass
-parked_custom_msgs/Ultrasonic_Sensor ultrasonic
+parked_custom_msgs/Compass heading
+parked_custom_msgs/Ultrasonic_Sensor ultrasonicFront
+parked_custom_msgs/Ultrasonic_Sensor ultrasonicBack
