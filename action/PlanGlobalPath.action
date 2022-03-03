@@ -1,5 +1,7 @@
 #goal
+parked_custom_msgs/Point current_position
 parked_custom_msgs/Point destination
+parked_custom_msgs/Point[] constraints
 ---
 #result
 parked_custom_msgs/Point[] path
