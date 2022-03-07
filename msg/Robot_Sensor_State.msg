@@ -1,3 +1,5 @@
 parked_custom_msgs/Compass heading
 parked_custom_msgs/Ultrasonic_Sensor ultrasonicFront
 parked_custom_msgs/Ultrasonic_Sensor ultrasonicBack
+parked_custom_msgs/Ultrasonic_Sensor ultrasonicRight
+parked_custom_msgs/Ultrasonic_Sensor ultrasonicLeft
