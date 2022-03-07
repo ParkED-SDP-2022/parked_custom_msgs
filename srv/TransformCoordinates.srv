@@ -1,0 +1,14 @@
+# Request Constants
+float64 LONG_MIN = 0.0
+float64 LONG_MAX = 1.2631578947
+float64 LAT_MIN = 0.0
+float64 LAT_MAX = 1.0
+uint32 IMAGE_X = 1200
+uint32 IMAGE_Y = 950
+# Request parameters
+parked_custom_msgs/Point[] inputPositions
+# 1 means from LongLat to Image. 2 means Image to LongLat
+uint32 flag
+---
+# Response
+parked_custom_msgs/Point[] processedPositions

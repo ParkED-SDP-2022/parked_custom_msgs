@@ -5,5 +5,4 @@ parked_custom_msgs/Point destination
 parked_custom_msgs/Point end_position
 ---
 #feedback
-parked_custom_msgs/Point current_positon
-bool intervention_required
+string message
