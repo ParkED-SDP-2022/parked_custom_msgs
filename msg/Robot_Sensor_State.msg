@@ -1,4 +1,4 @@
-parked_custom_msgs/msg/Compass Compass
-parked_custom_msgs/msg/Ultrasonic_Sensor UltrasonicFLeft
-parked_custom_msgs/msg/Ultrasonic_Sensor UltrasonicFRight
-parked_custom_msgs/msg/Ultrasonic_Sensor UltrasonicBack
+parked_custom_msgs/Compass Compass
+parked_custom_msgs/Ultrasonic_Sensor UltrasonicFLeft
+parked_custom_msgs/Ultrasonic_Sensor UltrasonicFRight
+parked_custom_msgs/Ultrasonic_Sensor UltrasonicBack
