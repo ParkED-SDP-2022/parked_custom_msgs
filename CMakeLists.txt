@@ -53,6 +53,7 @@ add_message_files(
   Ultrasonic_Sensor.msg
   Compass.msg
   Robot_Sensor_State.msg
+  Bench_Occupancy.msg
 )
 
 ## Generate services in the 'srv' folder
