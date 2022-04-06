@@ -69,6 +69,7 @@ add_action_files(
   MoveToPoint.action
   Navigate.action
   PlanGlobalPath.action
+  MultiRobotPath.action
 )
 
 ## Generate added messages and services with any dependencies listed here

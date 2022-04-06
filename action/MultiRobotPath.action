@@ -2,7 +2,7 @@
 parked_custom_msgs/Point[] destination
 ---
 #result
-parked_custom_msgs/Point[] end_position
+bool success
 ---
 #feedback
 string message
